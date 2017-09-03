@@ -3,8 +3,7 @@
 #include <time.h>
 #include <stdio.h>
 
-void main()
-{
+void main(void) {
 	const int N = 5;
 	double arr[N];
 	int k = 3;
