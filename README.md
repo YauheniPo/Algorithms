@@ -3,11 +3,12 @@
 -SortArrayProstogoVybora -Простого выбора
 -SortArrayProstogoVklyucheniya -Простого включения
 -SortArrayShella -Шелла
+-SortArrayHoara -Хоара
 [0] = 45.79   [1] = -21.48  [2] = -47.15  [3] = 1.04    [4] = 22.87
 
 [0] = -47.15  [1] = -21.48  [2] = 1.04    [3] = 22.87   [4] = 45.79
--SortArrayHoara -Хоара
 -SortArraySliyaniem -Слиянием
+
 
 #SearchAlgorithms
 -BinarySearch
@@ -29,14 +30,14 @@ SortArrayMulti2
 [2][0] = 2    [2][1] = -14  [2][2] = -31
 [3][0] = 43   [3][1] = -6   [3][2] = -49
 
-[0] = -10  [1] = -27  [2] = -43  [3] = -12
+Sum of array elements: [0] = -10  [1] = -27  [2] = -43  [3] = -12
 
 [0][0] = 2    [0][1] = -14  [0][2] = -31
 [1][0] = -48  [1][1] = 42   [1][2] = -21
 [2][0] = 43   [2][1] = -6   [2][2] = -49
 [3][0] = 41   [3][1] = -36  [3][2] = -15
 
-[0] = -43  [1] = -27  [2] = -12  [3] = -10
+Sum of array elements: [0] = -43  [1] = -27  [2] = -12  [3] = -10
 
 
 ShiftArrayElements

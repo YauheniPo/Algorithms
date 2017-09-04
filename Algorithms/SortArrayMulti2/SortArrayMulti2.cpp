@@ -25,6 +25,7 @@ void main(void) {
 
 	printf("\n");
 
+	printf("Sum of array elements: ");
 	for(int j = 0; j < N; ++j) {
 		printf("[%d] = %-4d ", j, *(y + j));
 	}
@@ -61,6 +62,7 @@ void main(void) {
 
 	printf("\n");
 
+	printf("Sum of array elements: ");
 	for(int j = 0; j < N; ++j) {
 		printf("[%d] = %-4d ", j, *(y + j));
 	}
