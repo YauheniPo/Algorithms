@@ -1,4 +1,17 @@
 # SortingAlgorithms
+-SortArrayPuz -Пузырьковый метод
+-SortArrayProstogoVybora -Простого выбора
+-SortArrayProstogoVklyucheniya -Простого включения
+-SortArrayShella -Шелла
+[0] = 45.79   [1] = -21.48  [2] = -47.15  [3] = 1.04    [4] = 22.87
+
+[0] = -47.15  [1] = -21.48  [2] = 1.04    [3] = 22.87   [4] = 45.79
+-SortArrayHoara -Хоара
+-SortArraySliyaniem -Слиянием
+
+#SearchAlgorithms
+-BinarySearch
+
 
 SortArrayMulti
 
