@@ -38,6 +38,8 @@
 3 9 0 0
 
 
+# Other algorithms
+
 SortArrayMulti.cpp
 
   [0][0] = 6    [0][1] = 24   [0][2] = -6
