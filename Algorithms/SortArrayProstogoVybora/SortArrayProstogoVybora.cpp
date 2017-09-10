@@ -26,10 +26,10 @@ void main(void) {
 			if(arr[k] > arr[j]) {
 				k = j;
 			}
-			buf = arr[i];
-			arr[i] = arr[k];
-			arr[k] = buf;
 		}
+		buf = arr[i];
+		arr[i] = arr[k];
+		arr[k] = buf;
 	}
 
 	for(int i = 0; i < N; ++i) {
