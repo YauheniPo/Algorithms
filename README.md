@@ -4,7 +4,7 @@
 
 -SortArrayProstogoVybora.cpp -Простого выбора
 
--SortArrayProstogoVklyucheniya.cpp -Простого включения
+-SortArrayProstogoVklyucheniya.cpp -Простого включения (Метод вставки)
 
 -SortArrayShella.cpp -Шелла
 
